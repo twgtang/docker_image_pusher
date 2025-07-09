@@ -5,3 +5,4 @@ homeassistant/home-assistant:latest
 plexinc/pms-docker:latest
 youshandefeiyang/allinone:latest
 cloudnas/clouddrive2-unstable:latest 
+metacubex/mihomo:latest 
