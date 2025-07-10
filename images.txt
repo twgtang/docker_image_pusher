@@ -1,9 +1,1 @@
-jxxghp/moviepilot-v2:latest
-xhongc/music_tag_web:latest
-containrrr/watchtower
-homeassistant/home-assistant:latest
-plexinc/pms-docker:latest
-youshandefeiyang/allinone:latest
-cloudnas/clouddrive2-unstable:latest 
-metacubex/mihomo:latest 
-metacubex/metacubexd:latest 
+mrxianyu/metacubexd-ui:latest 
